@@ -2,7 +2,7 @@
 
 ***
 1. first folder is vanilla Python
-2. second is compiled to c with Cython
+2. second is compiled to C with Cython
 3. third has type declarations included
 
 Here is a one run of all of the programs. As we can see optimized code is 155 times faster. 🤔
