@@ -1,10 +1,3 @@
-Remember to read script carefully before :))
-
-Run to give bash script permissions.
-```bash
-chmod u+x script
-```
-
 ## This is a demonstration on how you can speed up vanilla python code. 
 
 ***
@@ -17,3 +10,11 @@ Times are in seconds
 ![capture](Capture.PNG)
 
 As we can see optimized code is 155 times faster. 🤔
+***
+
+PS.
+If u want to run this u need to give bash script permissions.
+```bash
+chmod u+x script
+```
+Remember to read script carefully before :))
