@@ -4,10 +4,6 @@ Versions
 - Ubuntu 20.04.2 LTS
 - Python 3.8.5
 ***
-<br>
-<br>
-
-
 commands for venv
 ``` bash
 which python  # shows python version
@@ -21,7 +17,7 @@ requirements.txt is generated with
 pip freeze > requirements.txt
 ```
 ***
-<br><br>
+<br>
 Going to push random py projects here for fun. 
 
 1. First project is about on how u can speed up python code by converting python function into c with Cython library.
