@@ -1,6 +1,27 @@
-python virtual env in wsl
+# Python venv in win10 wsl2
+Versions
 
-commands
-  which python
-  source venv/bin/activate
-  deactive
+- Ubuntu 20.04.2 LTS
+- Python 3.8.5
+***
+<br>
+<br>
+
+
+commands for venv
+``` bash
+which python  # shows python version
+source venv/bin/activate # activate venv
+deactive # deactivate venv
+```
+
+requirements.txt is generated with
+
+```bash
+pip freeze > requirements.txt
+```
+***
+<br><br>
+Going to push random py projects here for fun. 
+
+1. First project is about on how u can speed up python code by converting python function into c with Cython library.
