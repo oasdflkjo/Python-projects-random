@@ -6,9 +6,20 @@ Versions
 ***
 commands for venv
 ``` bash
-which python  # shows python version
-source venv/bin/activate # activate venv
-deactive # deactivate venv
+# create venv
+python3 -m venv venv
+
+# activate venv
+source venv/bin/activate 
+
+# shows python version
+which python
+
+# installs dependen
+pip install -r requirements.txt
+
+# deactivate venv
+deactive 
 ```
 
 requirements.txt is generated with
@@ -18,6 +29,6 @@ pip freeze > requirements.txt
 ```
 ***
 <br>
-Going to push random py projects here for fun. 
-
+Going to push random py projects here for fun. 😀
+<br><br>
 1. First project is about on how u can speed up python code by converting python function into c with Cython library.
