@@ -30,5 +30,10 @@ pip freeze > requirements.txt
 ***
 <br>
 Going to push random py projects here for fun. 😀
-<br><br>
+<br>
+
+<br>
+
 1. First project is about on how u can speed up python code by converting python function into c with Cython library.
+
+2. Second is a word counting program that uses dictionary data structure.
